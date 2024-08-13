@@ -7,11 +7,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/loonglim/loonglim/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/loonglim/loonglim/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
-<br>
 <p align="left">
 <a href="https://github.com/gilangadhan">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayasa18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -19,7 +16,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </a>
 </p>
 
-<br>
+
 <div align="center">
     <div style="display: inline-block; height: 100%;">
         <picture>
