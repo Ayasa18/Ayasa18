@@ -26,7 +26,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Ayasa18&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Ayasa18&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-            <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=loonglim&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Ayasa18 stats"/>
+            <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=loonglim&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Ayasa18's stats"/>
         </picture>
     </div>
 </div>
@@ -37,7 +37,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ayasa18&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=radical" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=lAyasa18&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=flat" />
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=loonglim&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=radical" alt="Ayasa18 stats"/>
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=loonglim&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=radical" alt="Ayasa18's stats"/>
         </picture>
     </div>
 </div>
