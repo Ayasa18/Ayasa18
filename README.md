@@ -15,7 +15,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ayasa18&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ayasa18&theme=github-light&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
-            <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayasa18&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" alt="Aditiya's stats" style="width:97%;"/>
+            <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayasa18&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" alt="Ayasa18's stats" style="width:97%;"/>
         </picture>
     </div>
 </div>
@@ -26,7 +26,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Ayasa18&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Ayasa18&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-            <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=loonglim&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="loonglim's stats"/>
+            <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=loonglim&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Ayasa18 stats"/>
         </picture>
     </div>
 </div>
@@ -37,7 +37,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ayasa18&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=radical" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=lAyasa18&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=flat" />
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=loonglim&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=radical" alt="loonglim's stats"/>
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=loonglim&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=radical" alt="Ayasa18 stats"/>
         </picture>
     </div>
 </div>
