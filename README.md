@@ -1,9 +1,9 @@
-# Halo semua! 
+# Hello everyone! 
 
-Perkenalkan nama saya **Aditiya Saputra**.
+My name **Aditiya Saputra**.
 
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aditiyasaputra/) ku ya.
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/aditiyasaputra/) account.
 
 
 <p align="center">
