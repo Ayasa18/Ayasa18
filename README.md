@@ -3,8 +3,6 @@
 My name **Aditiya Saputra**.
 
 
-If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/aditiyasaputra/) account.
-
 
 <p align="center">
     <a href="https://github.com/gilangadhan">
