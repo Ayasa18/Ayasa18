@@ -1,7 +1,6 @@
 # Hello everyone! 
 
-My name **Aditiya Saputra**.
-
+ Hello. My full name is **Aditiya Saputra**.
 
 
 <p align="center">
