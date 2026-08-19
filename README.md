@@ -1,7 +1,6 @@
 # Hello everyone! 
 
-My full name is **Aditiya Saputra**.
-
+My full name is
 
 <p align="center">
     <a href="https://github.com/gilangadhan">
